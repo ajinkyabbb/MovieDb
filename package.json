@@ -1,6 +1,6 @@
 {
   "homepage": "https://ajinkyabbb.github.io/MovieDb",
-  "name": "reactprojects",
+  "name": "MovieDb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
