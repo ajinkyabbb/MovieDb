@@ -1,14 +1,17 @@
 {
-  "homepage": "https://ajinkyabbb.github.io/MovieDb",
-  "name": "MovieDb",
+  "homepage": "https://ajinkyabbb.github.io/TaskApp",
+  "name": "Task Assigner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.3",
     "react-router-dom": "^6.21.1",
@@ -49,7 +52,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajinkyabbb/MovieDb.git"
+    "url": "https://github.com/ajinkyabbb/Task-Assigner.git"
   }
-  
 }
